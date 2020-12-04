@@ -1,1 +1,1 @@
-# 14.-Elevar_a_una_potencia_python
+# Este programa muestra como elevar a una potencia un número.
